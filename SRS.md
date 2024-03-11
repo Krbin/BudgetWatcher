@@ -44,6 +44,10 @@ Dokument je uřený pro vývojáře projektu.
 
 Zatím žádné doplňující informace
 
-### Kontakty
+### 1.5 Kontakty
 
 Email: kubin.krys@gmail.com
+
+### Odkazy na další dokumenty
+
+Zatím se neodkazuje na další strany
