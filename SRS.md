@@ -7,3 +7,31 @@ Shrnutí verze: První návrh SRS vytvořený před zahájením zpracování pro
 Datum vytvoření: 11.3.2023
 
 Autor: Kryštof Kubín
+
+## 1. Úvod
+
+### 1.1 Účel
+
+Tato aplikace má. účel sloužit jako spůsob uchovávání informací o financích, jejich distribuci, volnosti a dalších údajů
+
+### 1.2 Konvence dokumentu
+
+**Formáty**
+
+_Dokument_ jsou ve formátu markdown (md).
+
+_Nadpis dokumentu_ jsou ve formátu H1.
+
+_Nadpisy sekcí_ jsou ve formátu H2.
+
+_Nadpisy podsekcí_ jsou ve formátu H3.
+
+_Důležité pojmy_ jsou vyznačené kurzivou.
+
+**Řádkování**
+
+Mezi _sekcemi_ jsou dva prázdné rádky.
+
+Před názvem _podsekce_ je jeden prázdný řádek.
+
+V případě v rozlišnosti témat v podeskcích jsou jednotlivé témata pojmenována tučným píšmem a nad jejich nadpisem je jedna mezara.
