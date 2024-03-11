@@ -12,7 +12,7 @@ Autor: Kryštof Kubín
 
 ### 1.1 Účel
 
-Tato aplikace má. účel sloužit jako spůsob uchovávání informací o financích, jejich distribuci, volnosti a dalších údajů
+Tato aplikace má. účel sloužit jako spůsob uchovávání informací o financích, jejich distribuci, volnosti a dalších údajů.
 
 ### 1.2 Konvence dokumentu
 
@@ -35,3 +35,15 @@ Mezi _sekcemi_ jsou dva prázdné rádky.
 Před názvem _podsekce_ je jeden prázdný řádek.
 
 V případě v rozlišnosti témat v podeskcích jsou jednotlivé témata pojmenována tučným píšmem a nad jejich nadpisem je jedna mezara.
+
+### 1.3 Pro koho je dokument uřený
+
+Dokument je uřený pro vývojáře projektu.
+
+### 1.4 Další informace
+
+Zatím žádné doplňující informace
+
+### Kontakty
+
+Email: kubin.krys@gmail.com
