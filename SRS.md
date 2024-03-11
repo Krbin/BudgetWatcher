@@ -78,9 +78,17 @@ Produkt pude vytvářen v Windows Presentation Foundation (WPF) a spouštěn jak
 
 ### 2.2 Funkce
 
-Aplikace budew mít funkce:
 Interkace ve formě formuláře a vyzuální zobrazení pro zjištění informací s možností úpravy záznamu.
 Záznamy budou zapisované v lokální databázi ve formě .csv a .json souboru ve stejné složce.
+
+Aplikace budew mít funkce:
+Příhlačovací formulař
+
+- _Prihlášení_ porovnává údaje přepracované hash function k údajům v souboru json
+- _Registrace_ vytvoří nový účet a zašifrovává záznam pomocí funkce s heslem.
+  <br/>
+
+Záznamové formuláře
 
 - _Záznam příjmů_ zaznamenávající množsví, datum přijmutí, odesilatele, stav transakce (přijaté, v processu, předpokládané) a volitelně kategorii a poznámku.
 - _Záznam pladeb_ zaznamenávající množsví, datum odeslání, přímajícího, stav transakce (dokončená, v processu, plánovaná) a volitelně kategorii a poznámku.
@@ -115,6 +123,24 @@ Z hledem k časovému omezení možnosti implementace se můžou specifikace dá
 ### 2.7 Předpoklady a závisloti
 
 Malé využití CPU a operační paměti omezené šifrováním.
-<br/><br/>
+<br/><br/><br/>
 
 ## 3. Požadavky na rozhraní
+
+<br/>
+
+### 3.1 Uživatelská rohraní
+
+Formuláre ve grafickém uživatelském rozhraní.
+Příhlašovací/Registrační formulář, Formuláře pro záznamy, a grafické zobrazení záznamů.
+<br/>
+
+### 3.2 Hárdwarová rozhraní - N/A
+
+<br/>
+
+### 3.3 Softwarová rozhraní - N/A
+
+<br/><br/>
+
+## 4. Vlastnosti systému
