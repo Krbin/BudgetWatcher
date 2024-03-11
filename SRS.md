@@ -30,6 +30,8 @@ Běžný text je napsán bez formátování
 
 _Důležité pojmy_ jsou vyznačené kurzivou.
 
+Běžný text je ukončen tečkou . s vyjímkou textu který by byl buť změněn tímto znakem nebo by se zhoršil přístup k němu.
+
 **Řádkování**
 
 Mezi _sekcemi_ jsou dva prázdné rádky.
@@ -44,7 +46,7 @@ Dokument je uřený pro vývojáře projektu.
 
 ### 1.4 Další informace
 
-Zatím žádné doplňující informace
+Zatím žádné doplňující informace.
 
 ### 1.5 Kontakty
 
@@ -52,6 +54,10 @@ Email: kubin.krys@gmail.com
 
 ### Odkazy na další dokumenty
 
-Zatím se neodkazuje na další strany
+Zatím se neodkazuje na další strany.
 
 ## Celkový popis
+
+### Produkt jako celek
+
+Produkt bude vytvářen v Windows Presentation Foundation (WPF) a spouštěn jako .exe soubor.
