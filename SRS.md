@@ -67,7 +67,7 @@ Email: kubin.krys@gmail.com
 Zatím se neodkazuje na další strany.
 <br/><br/><br/>
 
-## 2 Celkový popis
+## 2. Celkový popis
 
 <br/><br/>
 
@@ -117,4 +117,4 @@ Z hledem k časovému omezení možnosti implementace se můžou specifikace dá
 Malé využití CPU a operační paměti omezené šifrováním.
 <br/><br/>
 
-## 3 Požadavky na rozhraní
+## 3. Požadavky na rozhraní
