@@ -32,7 +32,9 @@ _Nadpisy sekcí_ jsou ve formátu H2.
 
 _Nadpisy podsekcí_ jsou ve formátu H3.
 
+
 _Běžný text_ je napsán bez formátování
+
 
 _Důležité pojmy_ jsou vyznačené kurzivou.
 
@@ -54,13 +56,16 @@ Dokument je uřený pro vývojáře projektu.
 
 ### 1.4 Další informace
 
+
 Zatím žádné doplňující informace.
+
 <br/><br/>
 
 ### 1.5 Kontakty
 
 Email: kubin.krys@gmail.com
 <br/><br/>
+
 
 ### 1.6 Odkazy na další dokumenty
 
