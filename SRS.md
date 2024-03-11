@@ -26,6 +26,8 @@ _Nadpisy sekcí_ jsou ve formátu H2.
 
 _Nadpisy podsekcí_ jsou ve formátu H3.
 
+Běžný text je napsán bez formátování
+
 _Důležité pojmy_ jsou vyznačené kurzivou.
 
 **Řádkování**
@@ -51,3 +53,5 @@ Email: kubin.krys@gmail.com
 ### Odkazy na další dokumenty
 
 Zatím se neodkazuje na další strany
+
+## Celkový popis
