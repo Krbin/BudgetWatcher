@@ -1,14 +1,14 @@
 # Funkční specifkicace ButgetWatcher
 
 Verze: 0.0.1
+
 Datum vytvoření: 18.03.2023
+
 Autor: Kryšot Kubín
 
 <br/>
 
 ## 1. Úvod
-
-<br/>
 
 ### 1.1 Účel
 
