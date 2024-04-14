@@ -18,3 +18,29 @@ C:\Users\kubin.kr.2021\source\repos\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0
 C:\Users\kubin.kr.2021\source\repos\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.pdb
 C:\Users\kubin.kr.2021\source\repos\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.genruntimeconfig.cache
 C:\Users\kubin.kr.2021\source\repos\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\ref\BudgetWatcher.dll
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\bin\Debug\net6.0-windows\BudgetWatcher.exe
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\bin\Debug\net6.0-windows\BudgetWatcher.deps.json
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\bin\Debug\net6.0-windows\BudgetWatcher.runtimeconfig.json
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\bin\Debug\net6.0-windows\BudgetWatcher.dll
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\bin\Debug\net6.0-windows\BudgetWatcher.pdb
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher_MarkupCompile.cache
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher_MarkupCompile.lref
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.g.resources
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.AssemblyInfoInputs.cache
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.AssemblyInfo.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.csproj.CoreCompileInputs.cache
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.sourcelink.json
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.dll
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\refint\BudgetWatcher.dll
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.pdb
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\BudgetWatcher.genruntimeconfig.cache
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\ref\BudgetWatcher.dll
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\forms\Login.g.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\forms\Login.baml
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\forms\Change password.g.cs
+C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\forms\Change password.baml

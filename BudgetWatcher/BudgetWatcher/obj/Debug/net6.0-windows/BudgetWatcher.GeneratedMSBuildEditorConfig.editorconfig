@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BudgetWatcher
-build_property.ProjectDir = C:\Users\kubin.kr.2021\source\repos\BudgetWatcher\BudgetWatcher\
+build_property.ProjectDir = C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

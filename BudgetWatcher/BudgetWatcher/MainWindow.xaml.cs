@@ -24,5 +24,6 @@ namespace BudgetWatcher
         {
             InitializeComponent();
         }
+
     }
 }

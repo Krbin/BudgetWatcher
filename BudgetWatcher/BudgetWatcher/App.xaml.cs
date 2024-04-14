@@ -5,6 +5,7 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Controls;
 
 namespace BudgetWatcher
 {
@@ -14,4 +15,4 @@ namespace BudgetWatcher
     public partial class App : Application
     {
     }
-}
+} 

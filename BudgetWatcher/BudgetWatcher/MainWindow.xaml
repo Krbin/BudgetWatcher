@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BudgetWatcher"
+        xmlns:forms="clr-namespace:BudgetWatcher.forms"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
@@ -18,5 +19,9 @@
             <RowDefinition Height="7*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
+
+        <Grid Grid.Column="1" Grid.Row="1">
+            <forms:Login Loaded="Login_Loaded"/>
+        </Grid>
     </Grid>
 </Window>

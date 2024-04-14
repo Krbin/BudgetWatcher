@@ -7,6 +7,20 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="forms\Change password.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="forms\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="forms\Change password.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="forms\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
