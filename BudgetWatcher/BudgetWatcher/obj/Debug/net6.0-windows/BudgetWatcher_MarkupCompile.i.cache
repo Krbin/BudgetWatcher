@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\
+C:\Users\krbin\source\repos\BudgetWatcher\BudgetWatcher\obj\Debug\net6.0-windows\
 BudgetWatcher
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\krbin\Documents\GitHub\BudgetWatcher\BudgetWatcher\BudgetWatcher\App.xaml
-31307677912
+C:\Users\krbin\source\repos\BudgetWatcher\BudgetWatcher\App.xaml
+31903841761
 
-7-509817936
-194-1701117732
-forms\Change password.xaml;forms\Login.xaml;MainWindow.xaml;
+22-1415333115
+2181518258823
+CostumControls\BindablePasswordBox.xaml;Views\LoginView.xaml;Views\MainView.xaml;
 
 True
 
