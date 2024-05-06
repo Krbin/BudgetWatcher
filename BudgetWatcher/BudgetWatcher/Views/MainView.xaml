@@ -10,10 +10,38 @@
     <Window.DataContext>
         <viewModel:MainViewModel/>
     </Window.DataContext>
-    <Grid>
-        <TextBlock Text="{Binding CurrentUserAccount.DisplayName, FallbackValue='NULL'}"
-                   FontSize="30"
-                   HorizontalAlignment="Center"
-                   VerticalAlignment="Center"/>
+
+    <Grid Background="#0C0C0C">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="7*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Height="70" VerticalAlignment="Bottom">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+
+                <Grid Width="240">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="Revenues" Content="Revenues" Grid.Column="0" Background="#F2613F" Foreground="White" FontFamily="Montserrat" FontSize="14"/>
+                    <Button x:Name="Balance" Content="Balances" Grid.Column="1" Background="#F2613F" Foreground="White" FontFamily="Montserrat" FontSize="14"/>
+                    <Button x:Name="Expences" Content="Expences" Grid.Column="2" Background="#F2613F" Foreground="White" FontFamily="Montserrat" FontSize="14"/>
+                </Grid>
+            </Grid>
+        </Grid>
     </Grid>
 </Window>

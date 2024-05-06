@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q8eCEV+AS2TjXIRRdeeavr8SpM3jgKNny7hvxHlDqJm+xGJOZsB9lsKndUyMHQwOy7Mw/BO/fgMi3FIRDPXoJQ==",
+  "dgSpecHash": "eJ/4eynW0YarCTNw+nAj5AIo9CcqvH33qJClfInikDKHZ39VJ5Il7iCYaBYcR9IuhI+gxiv7KFIKNlpSO0OR3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krbin\\source\\repos\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
+  "projectFilePath": "C:\\Users\\krbin\\Documents\\GitHub\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krbin\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\krbin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

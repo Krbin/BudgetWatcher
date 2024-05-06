@@ -2562,11 +2562,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krbin\\source\\repos\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
+      "projectUniqueName": "C:\\Users\\krbin\\Documents\\GitHub\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
       "projectName": "BudgetWatcher",
-      "projectPath": "C:\\Users\\krbin\\source\\repos\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
+      "projectPath": "C:\\Users\\krbin\\Documents\\GitHub\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher.csproj",
       "packagesPath": "C:\\Users\\krbin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krbin\\source\\repos\\BudgetWatcher\\BudgetWatcher\\obj\\",
+      "outputPath": "C:\\Users\\krbin\\Documents\\GitHub\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krbin\\AppData\\Roaming\\NuGet\\NuGet.Config",

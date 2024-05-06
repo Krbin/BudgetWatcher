@@ -9,7 +9,11 @@ namespace BudgetWatcher.Models
 {
     class DataContext : DbContext
     {
+
         public DbSet<UserModel>? Users { get; set; }
+        public DbSet<BalanceModel>? Balances { get; set; }
+        public DbSet<ExpenseModel>? Expenses { get; set; }
+        public DbSet<RevenueModel>? Revenues { get; set; }
 
         public string path = @"C:\BudgetWatcher\database.db";
 

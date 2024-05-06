@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BudgetWatcher.Models
 {
-    class UserModel
+    class erModel
     {
         public int Id { get; set; }
         public int AccessLevel { get; set; }

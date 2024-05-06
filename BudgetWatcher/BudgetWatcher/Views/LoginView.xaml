@@ -30,23 +30,8 @@
     </Window.Visibility>
 
     <Border CornerRadius="30"
-            BorderThickness="5">
-
-        <Border.BorderBrush>
-            <LinearGradientBrush StartPoint="1,0.75" EndPoint="0,0">
-                <GradientStop Color="#1C0625" Offset="0"/>
-                <GradientStop Color="#000000" Offset="0.8"/>
-                <GradientStop Color="#1C0625" Offset="1"/>
-            </LinearGradientBrush>
-        </Border.BorderBrush>
-        <Border.Background>
-            <LinearGradientBrush StartPoint="0,0" EndPoint="1,0.75">
-                <GradientStop Color="#1C0625" Offset="0"/>
-                <GradientStop Color="#000000" Offset="0.6"/>
-                <GradientStop Color="#1C0625" Offset="1.4"/>
-            </LinearGradientBrush>
-        </Border.Background>
-
+            BorderThickness="5"
+            Background="#0C0C0C">
         <Grid>
             <Grid.RowDefinitions>
                 <RowDefinition Height="45"/>
@@ -145,7 +130,7 @@
                         Content="LOG IN"
                         Foreground="White"
                         FontFamily="Montserrat"
-                        Background="#351940"
+                        Background="#9B3922"
                         Height="40"
                         Width="175"
                         Margin="0,40,0,0">
@@ -153,9 +138,7 @@
                     <Button.Template>
                         <ControlTemplate TargetType="Button">
                             <Border Width="175" Height="40"
-                                    CornerRadius="15" 
                                     Background="{TemplateBinding Background}">
-
                                 <ContentPresenter VerticalAlignment="Center"
                                                   HorizontalAlignment="Center"/>
 
