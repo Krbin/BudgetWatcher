@@ -109,8 +109,7 @@
               "ToolTip": "C:\\Users\\krbin\\Documents\\GitHub\\BudgetWatcher\\BudgetWatcher\\BudgetWatcher\\Views\\LoginView.xaml",
               "RelativeToolTip": "BudgetWatcher\\Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T13:19:05.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T13:19:05.371Z"
             },
             {
               "$type": "Document",
@@ -134,8 +133,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\DatabaseModels\\GenerateDefaultSuperUser.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:01:52.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T12:01:52.732Z"
             },
             {
               "$type": "Document",
@@ -147,8 +145,7 @@
               "RelativeToolTip": "BudgetWatcher\\Migrations\\20240505120151_initial.cs",
               "ViewState": "AQIAAGwAAAAAAAAAAAAwwHAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:01:51.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T12:01:51.446Z"
             },
             {
               "$type": "Document",
@@ -160,8 +157,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\DatabaseModels\\ExpenseModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T12:01:03.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T12:01:03.516Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "BudgetWatcher\\Migrations\\20240505115907_initial.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:59:07.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:59:07.251Z"
             },
             {
               "$type": "Document",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\UserAccountModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:56:05.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:56:05.149Z"
             },
             {
               "$type": "Document",
@@ -199,8 +193,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:55:32.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:55:32.419Z"
             },
             {
               "$type": "Document",
@@ -212,8 +205,7 @@
               "RelativeToolTip": "BudgetWatcher\\CostumControls\\BindablePasswordBox.xaml.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:40:38.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:40:38.787Z"
             },
             {
               "$type": "Document",
@@ -237,8 +229,7 @@
               "RelativeToolTip": "BudgetWatcher\\ViewModels\\MainViewModel.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAA1wCUAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T11:40:02.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:40:02.272Z"
             },
             {
               "$type": "Document",
@@ -250,8 +241,7 @@
               "RelativeToolTip": "BudgetWatcher\\BudgetWatcher.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-05T11:25:39.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T11:25:39.855Z"
             },
             {
               "$type": "Document",
@@ -263,8 +253,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:56:30.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:56:30.423Z"
             },
             {
               "$type": "Document",
@@ -300,8 +289,7 @@
               "RelativeToolTip": "BudgetWatcher\\Models\\DatabaseModels\\UserModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T10:56:12.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:56:12.431Z"
             },
             {
               "$type": "Document",
@@ -313,8 +301,7 @@
               "RelativeToolTip": "BudgetWatcher\\Views\\MainView.xaml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAQwBkAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-05T10:16:41.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-05T10:16:41.203Z"
             },
             {
               "$type": "Document",
